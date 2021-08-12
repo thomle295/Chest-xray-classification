@@ -1,0 +1,9 @@
+SERVER:
+  NAME: chest-pneumonia-service
+  HOST: 0.0.0.0
+  PORT: 8000
+
+MODEL:
+  IMAGE_INPUT_HEIGHT_SIZE: 256
+  IMAGE_INPUT_WIDTH_SIZE: 256
+  
